@@ -1,30 +1,31 @@
 class T {
   constructor() {
+    
     this.page_title = "Mahlowat";
     this.qa_modal_title = "Fragen &amp; Antworten";
     this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
 					<p>Euer Tagessalz-Team.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Euer Tagessalz-Team.</p>\
 \
-					<h4>Woher stammen die Positionen der Gruppen?</h4>\
-					<p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
+					<h4>Woher stammen die Positionen der Parteien?</h4>\
+					<p>Den an der Wahl teilnehmenden Parteien wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
 						Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
 						erläutern.\
 					</p>\
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
 \
 					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Die Regierungswahl des Staates Sizilien.</p>\
 \
 					<h4>Wie werden die Punkte berechnet?</h4>\
 					<p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
 					<ul>\
-						<li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
-						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
-						<li>Sind die Antworten entgegengesetzt oder hat eine Gruppe eine These nicht beantwortet, gibt es keine Punkte für die\
-							Gruppe.\
+						<li>Stimmt die Antwort überein, werden der Partei 2 Punkte gutgeschrieben;</li>\
+						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Partei 1 Punkt gutgeschrieben;</li>\
+						<li>Sind die Antworten entgegengesetzt oder hat eine Partei eine These nicht beantwortet, gibt es keine Punkte für die\
+							Partei.\
 						</li>\
 					</ul>\
 					<p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
@@ -39,7 +40,7 @@ class T {
 \
 					<h4>Wer hat den Mahlowat programmiert?</h4>\
 					<p>Das steht\
-						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
+						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software und wurde vom Tagessalz-Team für diese Wahl den Umständen angepast!</p>\
 \
 					<h4>Ich habe einen Programmierfehler gefunden!</h4>\
 					<p>Oh nein! Wenn du den Fehler\
@@ -48,8 +49,8 @@ class T {
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
     this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
-						antreten.\
+    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur Salzilienwahl
+						antreten.
 					</p>\
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
     this.btn_start = "Mahlowat starten!";
