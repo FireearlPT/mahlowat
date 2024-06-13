@@ -28,14 +28,14 @@ function () {
 					<p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>\
 \
 					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Die Regierungswahl des Staates Salszilien.</p>\
+					<p>Die Regierungswahl des Staates Salzilien.</p>\
 \
 					<h4>Wie werden die Punkte berechnet?</h4>\
 					<p>Deine Antworten werden mit den vorgegebenen Antworten der Parteien abgeglichen.</p>\
 					<ul>\
-						<li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
-						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
-						<li>Sind die Antworten entgegengesetzt oder hat eine Gruppe eine These nicht beantwortet, gibt es keine Punkte für die\
+						<li>Stimmt die Antwort überein, werden der Partei 2 Punkte gutgeschrieben;</li>\
+						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Partei 1 Punkt gutgeschrieben;</li>\
+						<li>Sind die Antworten entgegengesetzt oder hat eine Partei eine These nicht beantwortet, gibt es keine Punkte für die\
 							Gruppe.\
 						</li>\
 					</ul>\
@@ -63,7 +63,7 @@ function () {
     this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Parteien zu vergleichen, die zur $WAHL\
 						antreten.\
 					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
+					<p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>";
     this.btn_start = "Mahlowat starten!";
     this.btn_start_show_qa = "Fragen &amp; Antworten";
     this.btn_toggle_thesis_more_text = "Erläuterung";
