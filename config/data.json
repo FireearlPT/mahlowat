@@ -93,8 +93,8 @@
 	},
 	"lists": {
 		"0": {
-			"name": "Partei",
-			"name_x": "P"
+			"name": "Partei der Wirtschaftliberalen",
+			"name_x": "PdW"
 		}
 	},
 	"answers": {
@@ -108,11 +108,11 @@
 				"statement": "Noe."
 			},
 			"2": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"4": {
@@ -124,19 +124,19 @@
 				"statement": ""
 			},
 			"6": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -144,15 +144,15 @@
 				"statement": ""
 			},
 			"11": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"12": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"13": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"14": {
@@ -160,15 +160,15 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"17": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			}
 		}
