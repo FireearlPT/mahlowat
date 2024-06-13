@@ -3,7 +3,7 @@ class T {
     this.page_title = "Mahlowat";
     this.qa_modal_title = "Fragen &amp; Antworten";
     this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Euer Tagessalz-Team.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
 					<p>Lorem Ipsum.</p>\
