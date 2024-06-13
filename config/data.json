@@ -1,80 +1,100 @@
 {
 	"theses": {
 		"0": {
-			"l": "These 1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+			"l": "Es sollte ein System für Bürgerbeschwerden und -anregungen geben.",
 			"s": "These 1",
-			"x": "Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam er"
+			"x": ""
 		},
 		"1": {
-			"l": "These 2 m dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ",
+			"l": "Parlamentssitzungen sollten alle öffentlich sein.",
 			"s": "These 2",
 			"x": ""
 		},
 		"2": {
-			"l": "These 3 ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lore",
+			"l": "Umweltschutz ist auch an der Schule wichtig.",
 			"s": "These 3",
-			"x": "takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+			"x": ""
 		},
 		"3": {
-			"l": "These 4 sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et ",
+			"l": "Es soll Sozialleistungen für arbeitslose Bürger geben.",
 			"s": "These 4",
-			"x": "tetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo"
+			"x": ""
 		},
 		"4": {
-			"l": "These 5 elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et just",
+			"l": "Es sollte während der Projektwoche freies Wlan für Unternehmen geben, die auf dieses angewiesen sind.",
 			"s": "These 5",
 			"x": ""
 		},
 		"5": {
-			"l": "These 6 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel i",
+			"l": "Es soll einen festgelegten Mindestlohn geben.",
 			"s": "These 6",
 			"x": ""
 		},
 		"6": {
-			"l": "These 7 tatum zzril delenit augue duis dolore te feugait nulla facilisi",
+			"l": "Die Unternehmenssteuer von 20% sind zu hoch und sollten gesenkt werden.",
 			"s": "These 7",
 			"x": ""
 		},
 		"7": {
-			"l": "These 8 invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo",
+			"l": "Es sollte spezielle Auszeichnungen/ Awards für besonders innovative Unternehmen geben.",
 			"s": "These 8",
-			"x": "ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit a"
+			"x": ""
 		},
 		"8": {
-			"l": "These 9 imata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos",
+			"l": "Es soll eine Mehrwertsteuer auf Produkte und Dienstleistungen geben.",
 			"s": "These 9",
 			"x": ""
 		},
 		"9": {
-			"l": "These 10 ergren, no sea takimata sanctus est Lorem ipsum dolor",
+			"l": "Der Staat soll Maßnahmen zur Förderung der Gleichberechtigung und gegen Diskriminierung einführen. ",
 			"s": "These 10",
+			"x": ""
+		},
+		"10": {
+			"l": "Es soll Steuererleichterungen für Unternehmen geben, die umweltfreundliche Produkte herstellen.",
+			"s": "These 11",
+			"x": ""
+		},
+		"11": {
+			"l": "Gendergerechte Sprache sollte vom Staat verboten werden.",
+			"s": "These 12",
+			"x": ""
+		},
+		"12": {
+			"l": "Es sollte ein Standesamt eingerrichtet werden.",
+			"s": "These 13",
+			"x": ""
+		},
+		"13": {
+			"l": "Wlan sollte für alle Schülerinnen und Schüler in der Woche frei zugänglich sein.",
+			"s": "These 14",
+			"x": ""
+		},
+		"14": {
+			"l": "Es sollte ein bedingungsloses Grundeinkommen geben.",
+			"s": "These 15",
+			"x": ""
+		},
+		"15": {
+			"l": "Das Handyverbot soll gelockert werden.",
+			"s": "These 16",
+			"x": ""
+		},
+		"16": {
+			"l": "",
+			"s": "These 17",
+			"x": ""
+		},
+		"17": {
+			"l": "Es sollte aktiv gegen Müllverschmutzung innerhalb des Staates vorgegangen werden.",
+			"s": "These 18",
 			"x": ""
 		}
 	},
 	"lists": {
 		"0": {
-			"name": "Liste X",
-			"name_x": "Liste X"
-		},
-		"1": {
-			"name": "Kugelschreibär",
-			"name_x": "STIFT"
-		},
-		"2": {
-			"name": "Liste Oben",
-			"name_x": "Liste Oben"
-		},
-		"3": {
-			"name": "The ACKERdemikerliste",
-			"name_x": "TACKER"
-		},
-		"4": {
-			"name": "Vitamin B",
-			"name_x": "Vitamin B"
-		},
-		"5": {
-			"name": "Niemals nicht",
-			"name_x": "NEIN"
+			"name": "Partei",
+			"name_x": "P"
 		}
 	},
 	"answers": {
@@ -118,215 +138,37 @@
 			"9": {
 				"selection": "a",
 				"statement": ""
-			}
-		},
-		"1": {
-			"0": {
-				"selection": "c",
-				"statement": "Moep"
 			},
-			"1": {
-				"selection": "b",
-				"statement": "Yay"
-			},
-			"2": {
-				"selection": "a",
-				"statement": ""
-			},
-			"3": {
-				"selection": "a",
-				"statement": ""
-			},
-			"4": {
-				"selection": "a",
-				"statement": ""
-			},
-			"5": {
-				"selection": "b",
-				"statement": ""
-			},
-			"6": {
-				"selection": "a",
-				"statement": ""
-			},
-			"7": {
+			"10": {
 				"selection": "c",
 				"statement": ""
 			},
-			"8": {
+			"11": {
 				"selection": "c",
 				"statement": ""
 			},
-			"9": {
-				"selection": "a",
-				"statement": ""
-			}
-		},
-		"2": {
-			"0": {
-				"selection": "a",
-				"statement": ""
-			},
-			"1": {
+			"12": {
 				"selection": "c",
 				"statement": ""
 			},
-			"2": {
+			"13": {
 				"selection": "c",
 				"statement": ""
 			},
-			"3": {
-				"selection": "a",
-				"statement": ""
-			},
-			"4": {
-				"selection": "d",
-				"statement": ""
-			},
-			"5": {
+			"14": {
 				"selection": "c",
 				"statement": ""
 			},
-			"6": {
+			"15": {
 				"selection": "c",
 				"statement": ""
 			},
-			"7": {
-				"selection": "a",
-				"statement": ""
-			},
-			"8": {
-				"selection": "a",
-				"statement": ""
-			},
-			"9": {
-				"selection": "a",
-				"statement": ""
-			}
-		},
-		"3": {
-			"0": {
+			"16": {
 				"selection": "c",
 				"statement": ""
 			},
-			"1": {
-				"selection": "a",
-				"statement": ""
-			},
-			"2": {
-				"selection": "a",
-				"statement": ""
-			},
-			"3": {
-				"selection": "a",
-				"statement": ""
-			},
-			"4": {
-				"selection": "a",
-				"statement": ""
-			},
-			"5": {
+			"17": {
 				"selection": "c",
-				"statement": ""
-			},
-			"6": {
-				"selection": "a",
-				"statement": ""
-			},
-			"7": {
-				"selection": "c",
-				"statement": ""
-			},
-			"8": {
-				"selection": "b",
-				"statement": ""
-			},
-			"9": {
-				"selection": "c",
-				"statement": ""
-			}
-		},
-		"4": {
-			"0": {
-				"selection": "a",
-				"statement": ""
-			},
-			"1": {
-				"selection": "c",
-				"statement": ""
-			},
-			"2": {
-				"selection": "c",
-				"statement": ""
-			},
-			"3": {
-				"selection": "c",
-				"statement": ""
-			},
-			"4": {
-				"selection": "c",
-				"statement": ""
-			},
-			"5": {
-				"selection": "c",
-				"statement": ""
-			},
-			"6": {
-				"selection": "c",
-				"statement": ""
-			},
-			"7": {
-				"selection": "a",
-				"statement": ""
-			},
-			"8": {
-				"selection": "a",
-				"statement": ""
-			},
-			"9": {
-				"selection": "a",
-				"statement": ""
-			}
-		},
-		"5": {
-			"0": {
-				"selection": "a",
-				"statement": ""
-			},
-			"1": {
-				"selection": "a",
-				"statement": ""
-			},
-			"2": {
-				"selection": "c",
-				"statement": ""
-			},
-			"3": {
-				"selection": "b",
-				"statement": ""
-			},
-			"4": {
-				"selection": "c",
-				"statement": ""
-			},
-			"5": {
-				"selection": "c",
-				"statement": ""
-			},
-			"6": {
-				"selection": "c",
-				"statement": ""
-			},
-			"7": {
-				"selection": "c",
-				"statement": ""
-			},
-			"8": {
-				"selection": "a",
-				"statement": ""
-			},
-			"9": {
-				"selection": "a",
 				"statement": ""
 			}
 		}
