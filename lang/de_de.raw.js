@@ -3,23 +3,23 @@ class T {
     this.page_title = "Mahlowat";
     this.qa_modal_title = "Fragen &amp; Antworten";
     this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Euer Tagessalz-Team.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Euer Tagessalz-Team.</p>\
 \
-					<h4>Woher stammen die Positionen der Gruppen?</h4>\
-					<p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
-						Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
+					<h4>Woher stammen die Positionen der Parteien?</h4>\
+					<p>Den an der Wahl teilnehmenden Parteien wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
+						Positionierung (Zustimmung/Neutral/Ablehnung) konnten sie ihre Position auch in einem kurzen Absatz\
 						erläutern.\
 					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
+					<p>Für ihre Stellungnahmen zu den Thesen sind die Parteien selbst verantwortlich.</p>\
 \
 					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Die Regierungswahl des Staates Salzilien.</p>\
 \
 					<h4>Wie werden die Punkte berechnet?</h4>\
-					<p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
+					<p>Deine Antworten werden mit den vorgegebenen Antworten der Parteien abgeglichen.</p>\
 					<ul>\
 						<li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
 						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
