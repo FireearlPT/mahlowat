@@ -95,9 +95,13 @@
 		"0": {
 			"name": "Partei der Wirtschaftliberalen",
 			"name_x": "PdW"
+		},
+		"1": {
+			"name": "Bündnis Salzhausen",
+			"name_x": "Bündnis Salzhausen"
 		}
 	},
-	"answers": { 
+	"answers": {
 		"0": {
 			"0": {
 				"selection": "a",
@@ -170,6 +174,80 @@
 			"17": {
 				"selection": "b",
 				"statement": ""
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "a",
+				"statement": "Die Meinung der Bürger ist Bündnis Salzhausen sehr wichtig weshalb deren Ideen, Anregungen, Verbesserungsvorschläge aber auch Beschwerden sowohl für das Projekt Schule als Staat als auch für unser Ziel der maximalen Freiheit relevant sind."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Wir als Bündnis Salzhausen wollen uns nicht vor unseren Wählern \"verstecken\" und unterstützen öffentliche Sitzungen."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Bündnis Salzhausen plant die Unterstützung umweltfreundlicher Unternehmen und setzt sich daher für die Umwelt ein. In einem Spaßprojekt wie Schule als Staat sollte die Umwelt nicht die leidtragende Rolle spielem."
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Wir möchten den arbeitenden Bürgern definitiv einen deutlicheren Vorteil an verfügbarem Budget gegenüber den Arbeitslosen gewähren, als es in Deutschland generell der Fall ist. Trotzdem soll es Sozialleistungen geben."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Bündnis Salzhausen vertritt im Wahlprogramm die Ansicht, freies Wlan durchzusetzen."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Bündnis Salzhausen steht hinter einem Mindestlohn, möchte aber die grundlegenden Verhandlungen zwischen Arbeitnehmer - und geber ablaufen lassen. Ein gesetzlich festgeleter Mindestlohn schränkt die freie WIrtschaft ein und ist daher mit Vorsicht zu genießen."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Bündnis Salzhausen steht um jeden Preis hinter dem Ziel, Steuern vollständig abzuschaffen."
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Wir fokussieren unsere Möglichkeiten vorerst auf wichtigere Ziele, trotzdessen sind wir offen für Unternehmensawards."
+			},
+			"8": {
+				"selection": "c",
+				"statement": "Bündnis Salzhausen steht nach wie vor negativ Steuern gegenüber. Wir fürchten, dass die Aussicht auf Profit für potentielle Unternehmer bei hohen Steuerabgaben deutlich sinkt."
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Bündnis Salzhausen bezieht klare und eindeutige Stellung gegen Rassismus und Diskriminierung jeglicher Art."
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Irrelevant, wenn wir genug Stimmanteile bekommen, um die Steuern vollständig abzuschaffen. Andernfalls steht Bündnis Salzhausen hinter diesem Ziel."
+			},
+			"11": {
+				"selection": "b",
+				"statement": "Die Mitglieder vom Bündnis Salzhausen vertreten differenzierte Ansichten zum Thema Gendern."
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Ein Standesamt ist in Realition mit dessen Leistung und Sinnhaftigkeit in Bezug auf unser Projekt Schule als Staat nicht preiswert."
+			},
+			"13": {
+				"selection": "a",
+				"statement": "In unserem Wahlprogramm unterstützen wir jenes Ziel."
+			},
+			"14": {
+				"selection": "b",
+				"statement": "Das bedingungslose Grundeinkommen verhindert unsere Vorstellung von fairer Verteilung der Währung unter der Bevölkerung. Trotzdessen besteht die Möglichkeit, sich auf ein (sehr geringes) Grundeinkommen zu einigen."
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Die Lockerung des Handyverbotes ist in unserem Wahlprogramm festgelegt."
+			},
+			"16": {
+				"selection": "b",
+				"statement": "Ein Gemeinschaftsraum findet bei uns zunächst keine Berücksichtigung, ist  Bündnis Salzhausen jedoch (falls von der Bevölkerung erwüunscht)  auch kein Dorn im Auge."
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Wir unterstützen zwar den Umweltschutz, gleichzeitig gibt es in unserem perfekten Staat aber auch keine Steueragaben, weshalb fraglich ist, wer die \"Müllbeseitiger\" finanzieren soll. Außerdem ist fraglich, ob eine Müllbeseitigung überhaupt notwendig ist."
 			}
 		}
 	}
