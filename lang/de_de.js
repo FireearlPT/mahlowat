@@ -36,7 +36,7 @@ function () {
 						<li>Stimmt die Antwort überein, werden der Partei 2 Punkte gutgeschrieben;</li>\
 						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Partei 1 Punkt gutgeschrieben;</li>\
 						<li>Sind die Antworten entgegengesetzt oder hat eine Partei eine These nicht beantwortet, gibt es keine Punkte für die\
-							Gruppe.\
+							Partei.\
 						</li>\
 					</ul>\
 					<p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
@@ -51,7 +51,7 @@ function () {
 \
 					<h4>Wer hat den Mahlowat programmiert?</h4>\
 					<p>Das steht\
-						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software!</p>\
+						<a href="https://github.com/hszemi/mahlowat">hier</a>. Der Mahlowat ist übrigens freie Software! Die ursprüngliche Programmierung wurde an die Bedürfnisse des Tagessalz-Teams angepasst.</p>\
 \
 					<h4>Ich habe einen Programmierfehler gefunden!</h4>\
 					<p>Oh nein! Wenn du den Fehler\
