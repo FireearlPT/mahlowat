@@ -99,6 +99,10 @@
 		"1": {
 			"name": "Bündnis Salzhausen",
 			"name_x": "Bündnis Salzhausen"
+		},
+		"2": {
+			"name": "Salzische Bürgergemeinschaft",
+			"name_x": "SBG"
 		}
 	},
 	"answers": {
@@ -248,6 +252,80 @@
 			"17": {
 				"selection": "b",
 				"statement": "Wir unterstützen zwar den Umweltschutz, gleichzeitig gibt es in unserem perfekten Staat aber auch keine Steueragaben, weshalb fraglich ist, wer die \"Müllbeseitiger\" finanzieren soll. Außerdem ist fraglich, ob eine Müllbeseitigung überhaupt notwendig ist."
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "a",
+				"statement": "Feedback ist uns wichtig"
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Offenheit ist uns wichtig"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Ein sauberes Salzilien ist gut für den Lebensstandard"
+			},
+			"3": {
+				"selection": "c",
+				"statement": "Aufgrund des Nichtvorhandensein von laufenden Kosten"
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Wir wollen Unternehmen in jeder Weise unterstützen"
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Wir wollen diesen in der Verfassung regeln"
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Wir wollen die Unternehmen unter Bedingungen steuerlich entlasten"
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Dazu haben wir momentan keine Meinung, da andere Dinge im Vordergrund stehen"
+			},
+			"8": {
+				"selection": "a",
+				"statement": "Eine niedrige, um die Wirtschaft zu steigern"
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Alle sind gleichberechtigt"
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Sollte nicht nur auf Umweltfreundlichkeit beschränkt sein"
+			},
+			"11": {
+				"selection": "b",
+				"statement": "Jeder sollte reden/schreiben können wie er/sie möchte"
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Wichtig für die Nutzung unseres geplanten Online-Bankings"
+			},
+			"14": {
+				"selection": "c",
+				"statement": "Wer nichts beiträgt soll auch nichts bekommen"
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Wichtig für die Nutzung des geplanten Online-Bankings"
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": "Ordnung und Sauberkeit ist wichtig"
 			}
 		}
 	}
