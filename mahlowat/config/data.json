@@ -103,6 +103,10 @@
 		"2": {
 			"name": "Salzische Bürgergemeinschaft",
 			"name_x": "SBG"
+		},
+		"3": {
+			"name": "(Parteinahme fehlt, Vorsitzender: Frederik Terje Müller)",
+			"name_x": "k.A."
 		}
 	},
 	"answers": {
@@ -326,6 +330,80 @@
 			"17": {
 				"selection": "a",
 				"statement": "Ordnung und Sauberkeit ist wichtig"
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "a",
+				"statement": "Es ist wichtig, dass es einen unbürokratischen Weg für die Bürger gibt, die Politik zu erreichen, damit eine bürgernahe Politik möglich ist. "
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Wir stehen für transparente und ehrliche Politik. Öffentliche Parlamentssitzungen sind allerdings bereits in der Verfassung verankert."
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Eine Grundsicherung ist in der Verfassung festgeschrieben."
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Wir wollen allen eine faire Bezahlung für ihre Arbeit garantieren. "
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Wir wollen nachhaltige Unternehmen mit Steuererleichterungen fördern. "
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": "Ohne Steuern kann Salzilien nicht funktionieren. Es funktioniert aber, dass alle, die mit dem Fahrrad zur Schule kommen, weniger Steuern zahlen. Die Mehrwertsteuer sollte allerdings generell niedrig ausfallen. "
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Warum nicht? "
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Eine Grundsicherung ist in der Verfassung festgeschrieben."
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
 			}
 		}
 	}
